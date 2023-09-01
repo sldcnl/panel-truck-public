@@ -1,0 +1,11 @@
+<!-- polyfill for Web Components; you can omit if you don't want to support older browsers -->
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+    
+<!-- you can omit the Vue import if Vue is already present -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+
+<script src="https://geoservices.leventhalmap.org/panel-truck/webcomponent-0.2/panel-truck.min.js"></script>
+
+<div style="width:1000px;height:800px;">
+<panel-truck screenplay-src="https://github.com/sldcnl/panel-truck/blob/main/panel-truck-text.json"></panel-truck>
+</div>
