@@ -1,0 +1,21 @@
+{
+	"metedata": {
+		"title": "Decoding Lines in a Map",
+		"author": "Dr. David Weimer"
+	},
+	"sources": [
+		{
+			"id": "1",
+			"type": "staticImage",
+			"imageFile": "https://github.com/sldcnl/panel-truck/blob/main/DCC-Lines/Image9_River.jpg"
+		}
+	],
+	"scenes": [
+		{
+			"source": "1",
+			"caption": {
+				"text": "This is a map with a lot of lines."
+			}
+		}
+	]
+}
