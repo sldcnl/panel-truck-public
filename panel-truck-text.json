@@ -8,6 +8,11 @@
 			"id": "1",
 			"type": "staticImage",
 			"imageFile": "Image4_LeadingRoads.jpg"
+		},
+		{
+			"id": "2"
+			"type": "staticImage",
+			"imageFile": "Image2_StateBorder.tif"
 		}
 	],
 	"scenes": [
@@ -22,6 +27,14 @@
 			"caption": {
 				"text": "Boy what a lot of lines."
 			}
+		},
+		{
+			"source": "2"
+			"caption": {
+				"title": "Lines and Colors",
+				"text": "In addition to lines, maps have colors."
+			}
 		}
+				
 	]
 }
