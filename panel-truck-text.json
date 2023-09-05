@@ -10,7 +10,7 @@
 			"imageFile": "Image4_LeadingRoads.jpg"
 		},
 		{
-			"id": "2"
+			"id": "2",
 			"type": "staticImage",
 			"imageFile": "Image2_StateBorder.tif"
 		}
@@ -29,7 +29,7 @@
 			}
 		},
 		{
-			"source": "2"
+			"source": "2",
 			"caption": {
 				"title": "Lines and Colors",
 				"text": "In addition to lines, maps have colors."
