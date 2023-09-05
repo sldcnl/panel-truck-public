@@ -1,5 +1,5 @@
 {
-	"metedata": {
+	"metadata": {
 		"title": "Decoding Lines in a Map",
 		"author": "Dr. David Weimer"
 	},
@@ -7,7 +7,7 @@
 		{
 			"id": "1",
 			"type": "staticImage",
-			"imageFile": "https://github.com/sldcnl/panel-truck-public/blob/main/Image4_LeadingRoads.jpg"
+			"imageFile": "Image4_LeadingRoads.jpg"
 		}
 	],
 	"scenes": [
