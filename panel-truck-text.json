@@ -17,5 +17,11 @@
 				"text": "This is a map with a lot of lines."
 			}
 		}
+		{
+			"source": "1",
+			"caption": {
+				"text": "Boy what a lot of lines."
+			}
+		}
 	]
 }
