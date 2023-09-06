@@ -34,7 +34,13 @@
 				"title": "Lines and Colors",
 				"text": "In addition to lines, maps have colors."
 			}
-		}
-				
+		},
+		{
+			"source": "2",
+			"caption": {
+				"title": "New Philadelphia",
+				"text:" "Here is /New Philadelphia/."
+			}
+		}		
 	]
 }
