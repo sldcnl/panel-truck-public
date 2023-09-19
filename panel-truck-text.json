@@ -48,7 +48,7 @@
 		},
 		{
 			"source": "2",
-			"caption" {
+			"caption": {
 				"text": "using iiif image endpoint with Nick's smaller image"
 			}
 		}
