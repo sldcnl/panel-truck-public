@@ -11,8 +11,8 @@
 		},
 		{
 			"id": "2",
-			"type": "staticImage",
-			"imageFile": "Image0_Detail.jpg"
+			"type": "iiifImage",
+			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z7PFKLD/info.json"
 		},
 		{
 			"id": "3",
@@ -44,6 +44,12 @@
 			],
 			"caption": {
 				"text": "test zoom with iiif image endpoint"
+			}
+		},
+		{
+			"source": "2",
+			"caption" {
+				"text": "using iiif image endpoint with Nick's smaller image"
 			}
 		}
 	]
