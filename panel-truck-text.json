@@ -49,8 +49,21 @@
 		},
 		{
 			"source": "3",
+			"extent": "fit",
 			"caption": {
 				"text": "test"
+			}
+		},
+		{
+			"source": "3",
+			"extent": [
+				4010,
+				1413,
+				5010,
+				2413
+			],
+			"caption": {
+				"text": "test zoom"
 			}
 		}
 	]
