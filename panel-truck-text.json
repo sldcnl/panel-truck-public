@@ -13,6 +13,11 @@
 			"id": "2",
 			"type": "staticImage",
 			"imageFile": "Image0_Detail.jpg"
+		},
+		{
+			"id": "3",
+			"type": "iiifImage",
+			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF2255O/full/max/0/default.jpg"
 		}
 	],
 	"scenes": [
@@ -41,6 +46,12 @@
 				"title": "New Philadelphia",
 				"text": "Here is **New Philadelphia**."
 			}
-		}		
+		},
+		{
+			"source": "3"
+			"caption": {
+				"text": "test"
+			}
+		}
 	]
 }
