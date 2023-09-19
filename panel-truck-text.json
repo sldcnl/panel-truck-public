@@ -24,34 +24,14 @@
 		{
 			"source": "1",
 			"caption": {
-				"text": "This is a map with a lot of lines."
-			}
-		},
-		{
-			"source": "1",
-			"caption": {
-				"text": "Boy what a lot of lines."
-			}
-		},
-		{
-			"source": "2",
-			"caption": {
-				"title": "Lines and Colors",
-				"text": "In addition to lines, maps have colors."
-			}
-		},
-		{
-			"source": "2",
-			"caption": {
-				"title": "New Philadelphia",
-				"text": "Here is **New Philadelphia**."
+				"text": "uisng jpg hosted on github."
 			}
 		},
 		{
 			"source": "3",
 			"extent": "fit",
 			"caption": {
-				"text": "test"
+				"text": "using iiif image endpoint"
 			}
 		},
 		{
@@ -63,7 +43,7 @@
 				2413
 			],
 			"caption": {
-				"text": "test zoom"
+				"text": "test zoom with iiif image endpoint"
 			}
 		}
 	]
