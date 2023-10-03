@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "A screenplay of two scenes"
+    },
+
+    "sources": [
+        {
+        "id": "1",
+        "type": "iiifImage",
+        "imageEndpoint": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb18t"
+        },
+        {
+            "id": "2",
+            "type": "staticImage",
+            "imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZSF22VV7/full/8000,/0/default.jpg"
+            }
+    ],
+    
+    "scenes": [
+        {
+            "source": "1",
+            "caption": {
+                "text": "This is a map made by John Speed"
+            }
+        },
+        {
+            "source": "2",
+            "extent": [
+                83,
+                27,
+                519,
+                569
+            ],
+            "caption": {
+                "text": "This using the static image type on the jpg url from the iiif manifest"
+            }
+        }
+    ]
+}
