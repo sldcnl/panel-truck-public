@@ -1,0 +1,53 @@
+{
+	"metadata": {
+		"title": "Anatomy of a Map",
+		"author": "Dr. David Weimer, Newberry Library",
+    "datePublished": "2023"
+	},
+	"sources": [
+		{
+			"id": "1",
+			"type": "staticImage",
+			"imageFile": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZWQ2ML7/full/1000,/0/default.jpg"
+		}	
+	],
+	"scenes": [
+		{
+			"source": "1",
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "Maps bring together many different people and many different fields of expertise. An eighteenth-century map required a printer, engraver, surveyors, a cartographer, and a colorist who were using mathematics, art, older maps and symbols, previous atlases, and written accounts of travel."
+			}
+		},
+    {
+      "source": "1",
+			"extent": [
+				###
+				],
+      "moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "Because of this wide range of people and sources of information, maps have many different elements that work to tell a story about the places they depict. This slidesho identifies elements on one nineteenth-century map of the United States."
+      }
+    },
+    {
+      "source": "1",
+      "moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"extent": [
+				###
+			],
+			"caption": {
+				"text": "**Title:** The title of the map is its most prominent name. It usually appears in the biggest lettering and often in a decorative space on the map called a cartouche. “United States of America” may seem like too broad a name for this map, but remember, in 1839 there were no official states west of Missouri, Arkansas, and Louisiana."
+			}
+		},
+		{
+			"source": "1",
+      "moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"extent": [
+				###
+			],
+			"caption": {
+				"text" "**Cartouche:** A cartouche is an elaborate decorative piece of the map that usually combines the main information about the map, such as author, date, and title, with a symbolic representation. This image tells us something about the message the mapmaker is trying to communicate. For instance, the deer grazing in front of farmland surrounded by a forested border characterizes the US as a land of ample resources."
+			}
+		}
+  ]
+}
