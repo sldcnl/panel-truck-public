@@ -83,6 +83,19 @@
 			"caption": {
 				"text": "In the lower right, you can see three other names, H. S. Tanner again but also W. Allen and J. Knight."
 			}
+		},
+		{
+			"source": "1",
+			"extent": [
+				3590,
+				292,
+				4120,
+				422
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "Henry S. Tanner appears again as publisher in the lower middle of the map."
+			}
 		}
 	]
 }
