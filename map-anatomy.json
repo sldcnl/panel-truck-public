@@ -58,5 +58,18 @@
 				"text": "**Author:** The name of the main author or publisher will often appear near the title, as H. S. Tanner’s name does here. But very few maps were the work of only a single person. Maps like this one relied on a mapmaker as well as printers and engravers who made the printing plate (or parts of the plate)."
 			}
 		}
+		{
+			"source": "1",
+			"extent": [
+				5930,
+				922,
+				6240,
+				1082
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "In the cartouche, you can see the signature “J. W. Steel, sc.” Sc is an abbreviation for sculpsit, Latin for “he/she engraved this."
+			}
+		}
 	]
 }
