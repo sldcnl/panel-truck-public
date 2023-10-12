@@ -14,6 +14,7 @@
 	"scenes": [
 		{
 			"source": "1",
+			"extent": "fit",
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
 			"caption": {
 				"text": "Maps bring together many different people and many different fields of expertise. An eighteenth-century map required a printer, engraver, surveyors, a cartographer, and a colorist who were using mathematics, art, older maps and symbols, previous atlases, and written accounts of travel."
