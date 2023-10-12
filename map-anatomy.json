@@ -252,6 +252,14 @@
 			"caption": {
 				"text": "**Topography:** : Topography refers to the representation of different types of land and environment on the map. This map, for instance, uses different symbols to show swamps, mountains, and lakes, which are all part of the map’s topography."
 			}
+		},
+		{
+		"source": "1",
+			"extent": "fit",
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "In analyzing a map, you should consider how these elements, and other elements we haven’t named, combine to tell a specific story. You should also ask why the map includes certain information and excludes other information."
+			}
 		}
 	]
 }
