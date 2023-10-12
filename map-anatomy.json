@@ -107,7 +107,7 @@
 				],
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
 			"caption": {
-				"text": "**Inset:** When we talk about “a map” we can often actually mean a set of maps of different sizes all on one piece of paper. The largest map here shows the states and territories of the US in 1839. But surrounding the map on all sides are inset maps (often just called insets). Insets show information at a different resolution than the largest map. For instance, this map includes more detailed maps of individual cities like Philadelphia and of regions like the “environs of Boston."
+				"text": "**Inset:** When we talk about “a map” we can often actually mean a set of maps of different sizes all on one piece of paper. The largest map here shows the states and territories of the US in 1839. But surrounding the map on all sides are inset maps (often just called insets). Insets show information at a different resolution than the largest map. For instance, this map includes more detailed maps of individual cities like Philadelphia and of regions like the 'environs of Boston.'"
 			}
 		},
 		{
@@ -186,6 +186,32 @@
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
 			"caption": {
 				"text": "**Toponyms:** Place names on a map are called toponyms (from the Greek words for “place” and “name”). Toponyms on maps can range in size, orientation, and style. Often, bigger letters will refer to larger or more prominent areas. Letters will also sometimes follow the course of the feature they are naming. Consistency in the style of lettering can help you understand quickly what you are seeing. This map, for instance, uses slanted italic lettering for rivers and large bold lettering for state names."
+			}
+		},
+		{
+		"source": "1",
+			"extent": [
+				1660,
+				4100,
+				2100,
+				4390
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "**Content:** The content of a map can range widely and come in many forms. This map, for example, uses lines of color to show political boundaries, different kinds of lines to depict roads and rivers, and sections of text to provide more precise details."
+			}
+		},
+		{
+		"source": "1",
+			"extent": [
+				4580,
+				602,
+				5030,
+				982
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "**Legend:** The legend explains symbols or features on the map. This map’s legend helps us understand the symbols that describe kinds of settlements as well as distances along roads."
 			}
 		}
 	]
