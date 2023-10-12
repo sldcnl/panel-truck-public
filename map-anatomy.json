@@ -113,6 +113,19 @@
 		{
 			"source": "1",
 			"extent": [
+				3970,
+				4230,
+				5510,
+				5200
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "**Inset:** When we talk about “a map” we can often actually mean a set of maps of different sizes all on one piece of paper. The largest map here shows the states and territories of the US in 1839. But surrounding the map on all sides are inset maps (often just called insets). Insets show information at a different resolution than the largest map. For instance, this map includes more detailed maps of individual cities like Philadelphia, of regions like the “environs of Boston, and of large areas like “Oregon and Mandan Districts.” Notice how there is even an inset in this last inset!"
+			}
+		},
+		{
+			"source": "1",
+			"extent": [
 				620,
 				1152,
 				2050,
@@ -120,7 +133,7 @@
 				],
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
 			"caption": {
-				"text": "**Inset:** When we talk about “a map” we can often actually mean a set of maps of different sizes all on one piece of paper. The largest map here shows the states and territories of the US in 1839. But surrounding the map on all sides are inset maps (often just called insets). Insets show information at a different resolution than the largest map. For instance, this map includes more detailed maps of individual cities like Philadelphia, of regions like the “environs of Boston, and of large areas like “Oregon and Mandan Districts.” Notice how there is even an inset in this last inset!"
+				"text": "**Profile:** Like insets, profiles can appear within or alongside a map. They show areas in cross-section to illustrate differences in altitude or the make-up of geological features. Here, the profiles focus on feats of engineering such as railroads and canals."
 			}
 		},
 		{
@@ -133,7 +146,7 @@
 				],
 			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
 			"caption": {
-				"text": "**Profile:** Like insets, profiles can appear within or alongside a map. They show areas in cross-section to illustrate differences in altitude or the make-up of geological features. Here, the profiles focus on feats of engineering such as railroads and canals."
+				"text": "**Scale:** Maps can, but not always, have an explicit scale to them. The scale is a mathematical ratio of distances on the map to distances on the surface of the earth. Maps often communicate this ratio using a scale bar, which shows a length on the map and tells you how far that is on the earth in miles, feet, or some other unit of distance. By using different scales, this map can have insets that are the same size on the map even though they represent areas of very different sizes."
 			}
 		}
 	]
