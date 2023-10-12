@@ -161,6 +161,32 @@
 			"caption": {
 				"text": "**Latitude and Longitude:** Like the map’s scales, longitude and latitude provide mathematical structure. Longitude and Latitude translate a grid on the globe to a system of lines on a map based on the 360 degrees in a circle. These lines connect the same number across opposite sides of the map. Longitude and Latitude make comparing positions on a map and between maps much easier. Older maps will usually explicitly state where they are placing degree zero. Emphasizing its focus on the US, this map chooses Washington D. C. as its origin point."
 			}
+		},
+		{
+		"source": "1",
+			"extent": [
+				1590,
+				4970,
+				2460,
+				5290
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "**Neatline:** The neatline is the boundary of the content of the map. Although as this map demonstrates, the neatline can be anything but neat! At several points, this map breaks the neatline to squeeze in more information without having to shrink the rest of the information on the map."
+			}
+		},
+		{
+		"source": "1",
+			"extent": [
+				2710,
+				2951,
+				3440,
+				3201
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "**Toponyms:** Place names on a map are called toponyms (from the Greek words for “place” and “name”). Toponyms on maps can range in size, orientation, and style. Often, bigger letters will refer to larger or more prominent areas. Letters will also sometimes follow the course of the feature they are naming. Consistency in the style of lettering can help you understand quickly what you are seeing. This map, for instance, uses slanted italic lettering for rivers and large bold lettering for state names."
+			}
 		}
 	]
 }
