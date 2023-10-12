@@ -70,6 +70,19 @@
 			"caption": {
 				"text": "In the cartouche, you can see the signature “J. W. Steel, sc.” Sc is an abbreviation for sculpsit, Latin for “he/she engraved this."
 			}
+		},
+		{
+			"source": "1",
+			"extent": [
+				6590,
+				222,
+				7120,
+				352
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "In the lower right, you can see three other names, H. S. Tanner again but also W. Allen and J. Knight."
+			}
 		}
 	]
 }
