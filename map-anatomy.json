@@ -96,6 +96,19 @@
 			"caption": {
 				"text": "Henry S. Tanner appears again as publisher in the lower middle of the map."
 			}
+		},
+		{
+			"source": "1",
+			"extent": [
+				6360,
+				2061,
+				7080,
+				2781
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "**Inset:** When we talk about “a map” we can often actually mean a set of maps of different sizes all on one piece of paper. The largest map here shows the states and territories of the US in 1839. But surrounding the map on all sides are inset maps (often just called insets). Insets show information at a different resolution than the largest map. For instance, this map includes more detailed maps of individual cities like Philadelphia, of regions like the “environs of Boston, and of large areas like “Oregon and Mandan Districts.” Notice how there is even an inset in this last inset!"
+			}
 		}
 	]
 }
