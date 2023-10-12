@@ -148,6 +148,19 @@
 			"caption": {
 				"text": "**Scale:** Maps can, but not always, have an explicit scale to them. The scale is a mathematical ratio of distances on the map to distances on the surface of the earth. Maps often communicate this ratio using a scale bar, which shows a length on the map and tells you how far that is on the earth in miles, feet, or some other unit of distance. By using different scales, this map can have insets that are the same size on the map even though they represent areas of very different sizes."
 			}
+		},
+		{
+			"source": "1",
+			"extent": [
+				5530,
+				242,
+				6400,
+				482
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "**Latitude and Longitude:** Like the map’s scales, longitude and latitude provide mathematical structure. Longitude and Latitude translate a grid on the globe to a system of lines on a map based on the 360 degrees in a circle. These lines connect the same number across opposite sides of the map. Longitude and Latitude make comparing positions on a map and between maps much easier. Older maps will usually explicitly state where they are placing degree zero. Emphasizing its focus on the US, this map chooses Washington D. C. as its origin point."
+			}
 		}
 	]
 }
