@@ -239,6 +239,19 @@
 			"caption": {
 				"text": "**Dissection:** A map that has been dissected and backed on linen refers to a map like this that has been purposefully cut into pieces and then glued to a stronger piece of fabric. Dissecting a map was a common practice in the nineteenth century because it allowed people to fold and refold a map many times without having to worry about the map ripping into separate pieces. This map would easily fold into the size of one of these rectangles. The cross-hatched pattern in the gaps is the pattern of the supporting fabric."
 			}
+		},
+		{
+		"source": "1",
+			"extent": [
+				1960,
+				552,
+				2570,
+				792
+				],
+			"moreInfo": "https://collections.newberry.org/asset-management/2KXJ8ZWQ2ML7",
+			"caption": {
+				"text": "**Topography:** : Topography refers to the representation of different types of land and environment on the map. This map, for instance, uses different symbols to show swamps, mountains, and lakes, which are all part of the map’s topography."
+			}
 		}
 	]
 }
